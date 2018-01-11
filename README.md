@@ -1,6 +1,6 @@
 # blockchain-workshop-2018
 
-<a href="http://ibm.biz/bcworkshop2018"><img src="https://farm5.staticflickr.com/4739/39515037702_7c97e80df1_b.jpg" width="805" height="180" alt="bcworkshop2018"></a> 
+<a href="http://ibm.biz/bcworkshop2018"><img src="https://farm5.staticflickr.com/4763/27859482419_d9c6d71635_z.jpg" width="640" height="160" alt="bcworkshop2018"></a> 
 
 # Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
 
