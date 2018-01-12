@@ -62,7 +62,9 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
-# Lab 1:  Use Hyperledger Composer Playground to create a Business Network Archive (.bna) file
+# Lab 1: Hyperledger Composer Marbles Network 
+
+https://hyperledger.github.io/composer/index.html
 <p>
 <img src="https://hyperledger.github.io/composer/assets/img/Composer-Diagram.svg">
 
