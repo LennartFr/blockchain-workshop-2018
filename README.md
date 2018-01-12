@@ -15,9 +15,9 @@ Lennart is a Developer Advocate with IBM on the San Francisco City Team focusing
 6:00-6:30pm: Light dinner and registration
 
 6-30-8:30pm: Intro: 
-    1.  Lab 1: Hyperledger Composer https://hyperledger.github.io/composer/index.html  Marbles Network 
-    1.  Lab 2: Marbles app: https://github.com/IBM-Blockchain/marbles
-    1.  Lab 2: Stretch Goal: Decentralized energy with Hyperledger Composer: https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/
+    Lab 1: Hyperledger Composer https://hyperledger.github.io/composer/index.html  Marbles Network<p> 
+    Lab 2: Marbles app: https://github.com/IBM-Blockchain/marbles<p>
+    Lab 3: Stretch Goal: Decentralized energy with Hyperledger Composer: https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/<p>
                                            
 8:30-9:00pm : Wrap up & Networking
 
