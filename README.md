@@ -15,9 +15,9 @@ Lennart is a Developer Advocate with IBM on the San Francisco City Team focusing
 6:00-6:30pm: Light dinner and registration
 
 6-30-8:30pm: Intro: 
-             Lab 1: 
-             Lab 2: 
-             Lab 3:
+             Lab 1: Hyperledger Composer
+             Lab 2: Hyperledger Fabric
+             Lab 3: Stretch Goal: Decentralized energy with Hyperledger Composer 
                                            
 8:30-9:00pm : Wrap up & Networking
 
