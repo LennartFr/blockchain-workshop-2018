@@ -74,6 +74,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 <p>
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
+  
 ## Demo: Step 2 Creating a simple Hyperledger app running on your laptop
 ### [Hyperledger Fabric](https://hyperledger.org/projects/fabric)
 <a href="http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html">Writing Your First Application</a>
