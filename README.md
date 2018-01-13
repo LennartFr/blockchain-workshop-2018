@@ -26,8 +26,6 @@ Requirements:
 <br>
 Bring a laptop
 
-<img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
-
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
