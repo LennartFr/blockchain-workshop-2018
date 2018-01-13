@@ -88,8 +88,7 @@ https://github.com/IBM-Blockchain/marbles
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
 ## Step 6 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
-(https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
-
+An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
