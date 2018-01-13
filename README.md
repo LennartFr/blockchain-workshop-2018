@@ -25,6 +25,8 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 Requirements:
 <br>
 Bring a laptop
+    
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
