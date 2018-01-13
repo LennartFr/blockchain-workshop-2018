@@ -67,16 +67,8 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 # Lab 1: Hyperledger Composer Marbles Network 
 
 [Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
-
-https://hyperledger.github.io/composer/index.html
 <p>
-<img src="https://hyperledger.github.io/composer/assets/img/Composer-Diagram.svg">
-
-<a href="https://composer-playground.mybluemix.net/editor">Hyperledger Composer Playground</a>
-
 [Hyperledger Composer Documentation](https://hyperledger.github.io/composer/introduction/introduction.html)
-
-[Hands-on: Work with Hyperledger Composer](https://github.com/LennartFr/blockchain-meetup-2018/blob/master/hyperledgercomposer.md)
 <p>
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
