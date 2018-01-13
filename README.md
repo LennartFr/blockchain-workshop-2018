@@ -93,6 +93,7 @@ An enterprise-ready blockchain platform designed to accelerate the development, 
 ## Lab 4 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">bbbbbb
 # Resources
 
 ## Blockchain in the IBM Cloud 
