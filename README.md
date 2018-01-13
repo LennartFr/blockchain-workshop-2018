@@ -19,12 +19,11 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 6:00-30-8:30 pm: Intro: <p>
     Lab 1: Hyperledger Composer Marbles Network https://hyperledger.github.io/composer/index.html<p> 
     Lab 2: Marbles app: https://github.com/IBM-Blockchain/marbles<p>
-    Lab 3: Stretch Goal: Decentralized energy with Hyperledger Composer: https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/<p>
-    Step 4: [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>                         
-8:30-9:00 pm : Wrap up & Networking
-
+    Step 3: [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>                         
+Lab 4: Stretch Goal: Decentralized energy with Hyperledger Composer: https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/<p>
+8:30-9:00 pm : Wrap up & Networking<p>
 Requirements:
-
+<br>
 Bring a laptop
 
 <img src="https://farm5.staticflickr.com/4589/38703421954_a76611811a_b.jpg" width="824" height="207" alt="blueband"> 
