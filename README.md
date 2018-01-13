@@ -78,22 +78,22 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 https://github.com/IBM-Blockchain/marbles
 
-## Lab 3 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
-<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
-
-## Step 4 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
+## Step 3 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
 An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>
 
-### Step 4.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
+### Step 3.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
-### Step 4.2 Setting up a Blockchain app in the IBM Cloud
+### Step 3.2 Setting up a Blockchain app in the IBM Cloud
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
+
+## Lab 4 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
+<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
 # Resources
 
