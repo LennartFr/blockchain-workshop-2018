@@ -16,7 +16,7 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 
 6:00-6:30 pm: Light dinner and registration
 
-6-30-8:30 pm: Intro: <p>
+6:00-30-8:30 pm: Intro: <p>
     Lab 1: Hyperledger Composer Marbles Network https://hyperledger.github.io/composer/index.html<p> 
     Lab 2: Marbles app: https://github.com/IBM-Blockchain/marbles<p>
     Lab 3: Stretch Goal: Decentralized energy with Hyperledger Composer: https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/<p>
