@@ -84,7 +84,7 @@ https://github.com/IBM-Blockchain/marbles
 # Step 4 Setting up a Blockchain app in the IBM Cloud
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
-## Step 4.1 Setting up a Blockchain app in the IBM Cloud with Kypernetes
+## Step 4.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
 ## Step 4.2 Setting up an IBM Blockchain app in the IBM Cloud 
