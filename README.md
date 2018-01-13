@@ -66,7 +66,9 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 [Hyperledger Documentation](https://hyperledger-fabric.readthedocs.io/en/release/)
 
-# Lab 1: Hyperledger Composer Marbles Network 
+# Labs
+
+## Lab 1: Hyperledger Composer Marbles Network 
 
 [Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
 <p>
@@ -75,21 +77,19 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
   
-# Lab 2 Create the full marbles app
+## Lab 2 Create the full marbles app
 https://github.com/IBM-Blockchain/marbles
 
-# Lab 3 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
+## Lab 3 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
-# Step 4 Setting up a Blockchain app in the IBM Cloud
-<a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
-
-## Step 4.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
+## Step 4 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
-## Step 4.2 Setting up an IBM Blockchain app in the IBM Cloud 
+## Step 5 Setting up a Blockchain app in the IBM Cloud
+<a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
-## [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
+## Step 6 [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
