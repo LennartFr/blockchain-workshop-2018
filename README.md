@@ -22,7 +22,9 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
     Lab 1: Hyperledger Composer Marbles Network https://hyperledger.github.io/composer/index.html<p> 
     Lab 2: Marbles app: https://github.com/IBM-Blockchain/marbles<p>
     Lab 3: Stretch Goal: Decentralized energy with Hyperledger Composer: https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/<p>
-                                           
+    Step 4 Setting up a Blockchain app in the IBM Cloud with Kypernetes
+    Step 5 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
+                             
 8:30-9:00 pm : Wrap up & Networking
 
 Requirements:
@@ -85,7 +87,7 @@ https://github.com/IBM-Blockchain/marbles
 ## Step 4.1 Setting up a Blockchain app in the IBM Cloud with Kypernetes
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
-## Demo: Step 4.2 Setting up an IBM Blockchain app in the IBM Cloud 
+## Step 4.2 Setting up an IBM Blockchain app in the IBM Cloud 
 
 ## [IBM Blockchain Platform](https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-platform)
 
