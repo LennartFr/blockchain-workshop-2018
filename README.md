@@ -1,8 +1,6 @@
-# blockchain-workshop-2018
+# Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
 
 <a href="http://ibm.biz/bcworkshop2018"><img src="https://farm5.staticflickr.com/4763/27859482419_d9c6d71635_z.jpg" width="640" height="160" alt="bcworkshop2018"></a> 
-
-# Blockchain for developers: from zero to running app in the cloud. The latest programming resources.  
 
 # Speakers
 
