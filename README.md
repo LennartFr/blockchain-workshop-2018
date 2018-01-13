@@ -74,6 +74,8 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 <p>
   
 ## Lab 2 Create the full marbles app
+<img src="https://farm5.staticflickr.com/4665/27889047409_53ae2f45fd_z.jpg" width="640" height="371" alt="bigmarbles">
+
 https://github.com/IBM-Blockchain/marbles
 
 ## Lab 3 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
