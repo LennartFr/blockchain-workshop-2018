@@ -62,6 +62,8 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 # [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
+[Ripple and Moneygram](http://fortune.com/2018/01/11/ripple-moneygram-xrp-cryptocurrency-bank-transfers/)
+
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
