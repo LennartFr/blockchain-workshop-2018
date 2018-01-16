@@ -108,7 +108,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
 
-### Exercise 1.2 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
+### Exercise 1.2 Create a full application with a .bna file running on a laptop: Decentralized Energy with Hyperledger Composer
 <a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
 ## Exercise 2 Create the full marbles app
