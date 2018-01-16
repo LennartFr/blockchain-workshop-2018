@@ -43,6 +43,7 @@ Pitot Tube
 <p>
 Chaincode written in Go or Java 
   <p>
+      
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
@@ -77,7 +78,10 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 <p>
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
-  
+
+### Exercise 1.2 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
+<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
+
 ## Exercise 2 Create the full marbles app
 <img src="https://farm5.staticflickr.com/4665/27889047409_53ae2f45fd_z.jpg" width="640" height="371" alt="bigmarbles">
 
@@ -96,9 +100,6 @@ An enterprise-ready blockchain platform designed to accelerate the development, 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
-
-## Exercise 4 Create a full application with a .bna file running on a laptop: Decentralized energy with Hyperledger Composer
-<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Resources
