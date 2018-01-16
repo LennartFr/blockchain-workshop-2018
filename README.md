@@ -57,7 +57,8 @@ Consensus protocol is pluggable, currently an implementation of Byzantine fault-
 Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
-   
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
