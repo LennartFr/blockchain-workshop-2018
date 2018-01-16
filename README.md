@@ -59,7 +59,6 @@ Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-c
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
    
 
-# Blockchain Usecases
 # [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
 ## The Blockchain Distributed Ledger
