@@ -28,6 +28,11 @@ Bring a laptop
     
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+<p>
+      
+# Blockchain Usecases
+[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
@@ -42,10 +47,7 @@ Pitot Tube
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
 <p>
 Chaincode written in Go or Java 
-  <p>
-      
-# Blockchain Usecases
-[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
