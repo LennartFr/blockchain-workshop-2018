@@ -31,7 +31,7 @@ Bring a laptop
 <p>
       
 # Blockchain Usecases
-[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+# [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
