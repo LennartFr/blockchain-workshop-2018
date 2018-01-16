@@ -129,6 +129,7 @@ An enterprise-ready blockchain platform designed to accelerate the development, 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Resources
 
 ## Blockchain in the IBM Cloud 
