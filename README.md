@@ -20,7 +20,7 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
     Exercise 1: Hyperledger Composer Marbles Network https://hyperledger.github.io/composer/index.html<p> 
     Exercise 2: Decentralized Energy with Hyperledger Composer. https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/<p>
     Exercise 3: Marbles app: https://github.com/IBM-Blockchain/marbles<p>
-    Exercise 4: [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<br>                         
+    Demo 4: [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<br>                         
 8:30-9:00 pm : Wrap up & Networking<p>
 Requirements:
 <br>
@@ -116,13 +116,13 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 https://github.com/IBM-Blockchain/marbles
 
-## Exercise 3 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
+## Demo 4 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
 An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>
 
-### Exercise 3.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
+### Demo 4.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
-### Exercise 3.2 Setting up a Blockchain app in the IBM Cloud
+### Demo 4.2 Setting up a Blockchain app in the IBM Cloud
 <a href="https://console.bluemix.net/catalog/services/blockchain/">IBM Blockchain in the IBM Cloud</a><br>
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
