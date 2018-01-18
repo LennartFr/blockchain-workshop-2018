@@ -30,7 +30,6 @@ Requirements:
 <br>
 Bring a laptop
     
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 <p>
 
 # Chat: https://chat.hyperledger.org/
@@ -44,7 +43,7 @@ Bring a laptop
 1. Exercise 2 Decentralized energy with Hyperledger Composer:  git clone https://github.com/IBM/Decentralized-Energy-Composer
 1. Exercise 3 IBM Blockchain - Marbles Demo Download zip https://github.com/IBM-Blockchain/marbles
 
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # How did it all start with Blockchain?
  
