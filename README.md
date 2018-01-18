@@ -16,7 +16,6 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 
 Syed works with Developers and non-developers alike to show them the IBM Cloud platform and offerings in SaaS (Software-as-a-Service), Paas (Platform) and Iaas (Infrastructure).  One of the key focus areas for Syed is IBM Watson IoT (Internet of Things) Platform; where he uses the service offerings of IBM Bluemix Cloud Catalog to showcase the ease of use. He helped IBM Business Partners with Performance and Scalability testing of their Application on IBM Enterprise Servers, IBM Enterprise Storage (HDD/SSD) utilizing IBM Middleware in IIC Data Center.
 
-
 # Agenda:
 
 6:00-6:30 pm: Light dinner and registration
@@ -105,7 +104,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 ## Exercise 1: Hyperledger Composer: Marbles Network 
 <img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
 
-[Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
+[Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
 <p>
     
 [Hyperledger Composer Documentation](https://hyperledger.github.io/composer/introduction/introduction.html)
