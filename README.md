@@ -113,7 +113,7 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 # Exercises
 
-## Exercise 1: Hyperledger Composer: Marbles Network 
+## Exercise 1: Hyperledger Composer 
 <img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
 
 [Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
