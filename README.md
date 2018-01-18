@@ -33,6 +33,19 @@ Bring a laptop
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 <p>
 
+# Chat: https://chat.hyperledger.org/
+
+## Office Hours: https://calendly.com/alfsf <p> 
+  
+                alf@us.ibm.com
+
+# Download code for Exercises 
+
+1. Exercise 2 Decentralized energy with Hyperledger Composer:  git clone https://github.com/IBM/Decentralized-Energy-Composer
+1. Exercise 3 IBM Blockchain - Marbles Demo Download zip https://github.com/IBM-Blockchain/marbles
+
+
+
 # How did it all start with Blockchain?
  
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
