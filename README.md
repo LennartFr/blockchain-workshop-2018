@@ -2,10 +2,6 @@
 
 <a href="http://ibm.biz/bcworkshop2018"><img src="https://farm5.staticflickr.com/4763/27859482419_d9c6d71635_z.jpg" width="640" height="160" alt="bcworkshop2018"></a> 
 
-<p>
-<img src="https://farm5.staticflickr.com/4706/39817426281_c185a7e3de_b.jpg" width="1024" height="611" alt="Index">
-<p>
-
 # Speakers
 
 ## Lennart Frantzell 
@@ -41,6 +37,13 @@ Bring a laptop
 ## Office Hours: https://calendly.com/alfsf <p> 
   
                 alf@us.ibm.com
+                
+<p>
+<img src="https://farm5.staticflickr.com/4706/39817426281_c185a7e3de_b.jpg" width="1024" height="611" alt="Index">
+<p>                
+                
+              
+                
 
 # Download code for Exercises 
 
