@@ -127,6 +127,24 @@ Ivan Vankov: How exactly Hyperledger Fabric works. Basic workflow of transaction
   
 ## Ordering Service – Ordering and synchronizing transactions
 ... the ordering service is the definition of the network. It contains identity information for each member, information on channels and a set of policies dictating which members are permitted to perform certain tasks (e.g. invite other members, create channels, etc.). Every transaction and configuration operation will flow through the ordering service, so it’s a beyond critical piece in the overall scheme of things.......
+<p>
+The Hyperledger Fabric ordering service provides an atomic broadcast ordering service for consumption by the peers. This means that many clients can submit messages to the ordering service, and the same sequence of ordered batches will be delivered to all clients in response.
+
+### Protocol definition
+<p>
+There are two services: 
+<p>
+  
+1. the Broadcast service for injecting messages into the system and 
+1. the Deliver service for receiving ordered batches from the service.
+
+
+#### Service types
+
+1. Solo ordering service (testing): The solo ordering service is intended to be an extremely easy to deploy, non-production ordering service. It consists of a single process which serves all clients, so consensus is not required as there is a single central authority.
+1. Kafka-based ordering service (production)
+1. PBFT ordering service (pending): The PBFT ordering service will use the Hyperledger Fabric PBFT implementation (currently under development) to order messages in a byzantine fault tolerant way.
+
 
 ## Consensus
 Consensus is the process by which a network of nodes provides a guaranteed ordering of transactions and validates the block of transactions. Consensus must provide the following core functionality:
@@ -151,6 +169,12 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 ## Channels
 A Hyperledger Fabric channel is a private “subnet” of communication between two or more specific network members, for the purpose of conducting private and confidential transactions. 
 
+1. Endorsers: Nodes with “Endorser” functionality will simulate and sign or reject the transactions. A peer can be potentially 
+   an endorser for the chaincodes deployed to it.
+1. Consenters: Consenters, also termed as “Ordering service“, will run the PBFT (Practical Byzantine Fault Tolerance) 
+   consensus algorithm on the transactions and order these transactions appropriately in a block.
+1. Committers: Committer nodes receive the block of transactions from the ordering service (consenters) and write them to the ledger.
+
 ## Chaincode
 <p>
   
@@ -165,27 +189,36 @@ Chaincode is a piece of code that is written in one of the supported languages s
 
 # Exercises
 
-## Exercise 1: Hyperledger Composer 
+## Exercise 1: Hyperledger Composer Playground Tutorial 
 <img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
-
-[Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
 <p>
-    
-[Hyperledger Composer Documentation](https://hyperledger.github.io/composer/introduction/introduction.html)
+  
+[Hyperledger Composer Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
+
+<p>
+<a href="https://hyperledger.github.io/composer/introduction/introduction.html">Hyperledger Composer Documentation</a>
 <p>
 <a href="https://hyperledger.github.io/composer/reference/commands.html">Hyperledger Composer Command Line</a>
 <p>
-
-### Exercise 2 Create the Decentralized Energy app
-<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
   
-## Exercise 3 Create the full Marbles app
+###  <a href="https://github.com/ibm-silvergate/netcomposer/blob/master/README.md">Hyperledger Fabric Network bootstrapping made simple for experimentation, development and testing</a>  
+
+## Exercise 2 Decentralized energy with Hyperledger Composer
+<a href="https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/?ca=dw-_-DeveloperJourney-_-dwtv-Blockchain-_-topic"> Decentralized energy with Hyperledger Composer </a>
+<p>
+Wondering where blockchain might apply in your own life? Interested in energy, sustainability, or climate change? Try your hand at creating a basic blockchain app to interact with a decentralized energy network! The idea behind the app is a neighborhood where residents produce and sell excess solar-panel energy to residents who need it. This is an excellent example of how blockchain can begin to transform our world.   
+<p>
+  
+## Excercise 3 Create the full marbles app
 <img src="https://farm5.staticflickr.com/4665/27889047409_53ae2f45fd_z.jpg" width="640" height="371" alt="bigmarbles">
 
 https://github.com/IBM-Blockchain/marbles
 
-## Demo 4 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
-An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>
+## Exercise 4 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
+An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>  
+<p>  
+
+[ibm.biz/ibmbctechpaper](http://ibm.biz/ibmbctechpaper)
 
 ### Demo 4.1 Setting up a Blockchain app in the IBM Container Service ready for IBM Blockchain
 [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
