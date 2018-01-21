@@ -91,11 +91,10 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
   
-## Example of the importance of a shared ledger. <p> 
-<a href="https://en.wikipedia.org/wiki/Air_France_Flight_447">Air France Flight 447 flight from Rio de Janeiro, Brazil to Paris, France, June 1 2009. Airbus</a>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Airspeed_p1230157.jpg/375px-Airspeed_p1230157.jpg">
-<p>
-Pitot Tube
+## From the Press. <p> 
+
+<a href="http://fortune.com/2018/01/16/ibm-blockchain-maersk-company/">IBM and Maersk Are Creating a New Blockchain Company</a>  
+IBM and Danish shipping giant Maersk are teaming up to form a new company whose aim is to commercialize blockchain technology—the nifty, shared accounting ledgers first made famous by the cryptocurrency Bitcoin.
 <p>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
