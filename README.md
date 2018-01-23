@@ -16,7 +16,7 @@ Raheel is a software Engineer focused on developing journeys for Emerging Techno
 
 6:00-6:30 pm: Light dinner and registration
 
-Please form teams for the exercises
+<b>Please form teams for the exercises</b>
 
 6:00-30-8:30 pm: Intro: <p>
     Exercise 1: Hyperledger Composer Marbles Network https://hyperledger.github.io/composer/index.html<p> 
