@@ -145,16 +145,14 @@ Chaincode is a piece of code that is written in one of the supported languages s
   
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
-
-<a href="https://www.coindesk.com/hyperledger-counterfeit-drugs-blockchain/">Hyperledger Project Explores Fighting Counterfeit Drugs with Blockchain</a>
-<a href="http://statescoop.com/vermont-city-pilots-blockchain-for-real-estate">Vermont city pilots blockchain for real estate</a>
-<a href="https://www.bizjournals.com/newyork/news/2017/12/06/blockchain-could-revolutionize-voting.html">Blockchain could revolutionize voting and elections </a>
+<p>
+1. <a href="https://www.coindesk.com/hyperledger-counterfeit-drugs-blockchain/">Hyperledger Project Explores Fighting Counterfeit Drugs with Blockchain</a>
+1. <a href="http://statescoop.com/vermont-city-pilots-blockchain-for-real-estate">Vermont city pilots blockchain for real estate</a>
+1. <a href="https://www.bizjournals.com/newyork/news/2017/12/06/blockchain-could-revolutionize-voting.html">Blockchain could revolutionize voting and elections </a>
 <a href="https://cointelegraph.com/news/major-global-air-transport-player-eyes-blockchain-technology-for-maintenance-and-repair-system-monitoring">Major Global Air Transport Player Eyes Blockchain Technology for Maintenance and Repair System Monitoring</a>
-
-
-
-<a href="https://techcrunch.com/2016/10/08/how-blockchain-can-change-the-music-industry/">In the music industry, the blockchain could transform publishing, monetization and the relationship of artists with their communities of fans.</a>
-
+<p>
+1. <a href="https://techcrunch.com/2016/10/08/how-blockchain-can-change-the-music-industry/">In the music industry, the blockchain could transform publishing, monetization and the relationship of artists with their communities of fans.</a>
+<p>
 First, music can be published on the ledger with a unique ID and time stamp in a way that is effectively unalterable. This can solve the historic problem of digital content being downloaded, copied and modified at the leisure of users. ....
 <p>
 Blockchain technology can also revolutionize the monetization of music. The infrastructure is based on smart contracts, programs that can be run on the blockchain along with the payment transactions. ..... This can support a new way of offering on-demand music services. Users can select the record of their choice and immediately reward the stakeholders with cryptocurrency upon playing it.
