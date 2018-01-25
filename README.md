@@ -93,9 +93,26 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
  <img src="https://farm5.staticflickr.com/4085/4948614041_8424d93588_b.jpg" width="640" height="412" alt="MAERSK SAIGON - IMO: 9303534">
 
-<a href="http://fortune.com/2018/01/16/ibm-blockchain-maersk-company/">IBM and Maersk Are Creating a New Blockchain Company</a>  
+1) <a href="http://fortune.com/2018/01/16/ibm-blockchain-maersk-company/">IBM and Maersk Are Creating a New Blockchain Company</a>  
 IBM and Danish shipping giant Maersk are teaming up to form a new company whose aim is to commercialize blockchain technology—the nifty, shared accounting ledgers first made famous by the cryptocurrency Bitcoin.
 <p>
+2. <a href="https://www.coindesk.com/hyperledger-counterfeit-drugs-blockchain/">Hyperledger Project Explores Fighting Counterfeit Drugs with Blockchain</a>
+A key point up for debate at the meeting was the question of defining what exactly constitutes counterfeit activity in the pharmaceutical industry. According to Mbanefo, counterfeiters include both “rogue” manufacturers and established companies around the world that are failing to include the right amounts of active ingredients in medicines – or none at all.
+"That would be cleared up if we had a supply chain we could actually trust," she said.
+<p>
+The idea of using distributed time-stamping to differentiate counterfeit drugs is a compelling one, given the success of the trade.
+<p>
+3. <a href="http://statescoop.com/vermont-city-pilots-blockchain-for-real-estate">Vermont city pilots blockchain for real estate</a>
+4. <a href="https://www.bizjournals.com/newyork/news/2017/12/06/blockchain-could-revolutionize-voting.html">Blockchain could revolutionize voting and elections </a>
+<a href="https://cointelegraph.com/news/major-global-air-transport-player-eyes-blockchain-technology-for-maintenance-and-repair-system-monitoring">Major Global Air Transport Player Eyes Blockchain Technology for Maintenance and Repair System Monitoring</a>
+<p>
+5. <a href="https://techcrunch.com/2016/10/08/how-blockchain-can-change-the-music-industry/">In the music industry, the blockchain could transform publishing, monetization and the relationship of artists with their communities of fans.</a>
+<p>
+First, music can be published on the ledger with a unique ID and time stamp in a way that is effectively unalterable. This can solve the historic problem of digital content being downloaded, copied and modified at the leisure of users. ....
+<p>
+Blockchain technology can also revolutionize the monetization of music. The infrastructure is based on smart contracts, programs that can be run on the blockchain along with the payment transactions. ..... This can support a new way of offering on-demand music services. Users can select the record of their choice and immediately reward the stakeholders with cryptocurrency upon playing it.
+<p>
+And, finally, one of the advantages of a blockchain ledger is that it can establish a more direct relationship between creators and consumers. Composers and artists will no longer be required to go through purchasing platforms and financial brokers — who usually take a hefty cut of the revenue — and can get directly compensated every time their songs are played. This can be a boon to all those amateur producers who don’t have the backing of huge record labels.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -145,26 +162,6 @@ Chaincode is a piece of code that is written in one of the supported languages s
   
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
-<p>
-1. <a href="https://www.coindesk.com/hyperledger-counterfeit-drugs-blockchain/">Hyperledger Project Explores Fighting Counterfeit Drugs with Blockchain</a>
-A key point up for debate at the meeting was the question of defining what exactly constitutes counterfeit activity in the pharmaceutical industry. According to Mbanefo, counterfeiters include both “rogue” manufacturers and established companies around the world that are failing to include the right amounts of active ingredients in medicines – or none at all.
-"That would be cleared up if we had a supply chain we could actually trust," she said.
-<p>
-The idea of using distributed time-stamping to differentiate counterfeit drugs is a compelling one, given the success of the trade.
-<p>
-2. <a href="http://statescoop.com/vermont-city-pilots-blockchain-for-real-estate">Vermont city pilots blockchain for real estate</a>
-3. <a href="https://www.bizjournals.com/newyork/news/2017/12/06/blockchain-could-revolutionize-voting.html">Blockchain could revolutionize voting and elections </a>
-<a href="https://cointelegraph.com/news/major-global-air-transport-player-eyes-blockchain-technology-for-maintenance-and-repair-system-monitoring">Major Global Air Transport Player Eyes Blockchain Technology for Maintenance and Repair System Monitoring</a>
-<p>
-4. <a href="https://techcrunch.com/2016/10/08/how-blockchain-can-change-the-music-industry/">In the music industry, the blockchain could transform publishing, monetization and the relationship of artists with their communities of fans.</a>
-<p>
-First, music can be published on the ledger with a unique ID and time stamp in a way that is effectively unalterable. This can solve the historic problem of digital content being downloaded, copied and modified at the leisure of users. ....
-<p>
-Blockchain technology can also revolutionize the monetization of music. The infrastructure is based on smart contracts, programs that can be run on the blockchain along with the payment transactions. ..... This can support a new way of offering on-demand music services. Users can select the record of their choice and immediately reward the stakeholders with cryptocurrency upon playing it.
-<p>
-And, finally, one of the advantages of a blockchain ledger is that it can establish a more direct relationship between creators and consumers. Composers and artists will no longer be required to go through purchasing platforms and financial brokers — who usually take a hefty cut of the revenue — and can get directly compensated every time their songs are played. This can be a boon to all those amateur producers who don’t have the backing of huge record labels.
-
-
 
 # Exercises
 
