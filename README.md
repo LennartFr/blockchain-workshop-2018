@@ -94,7 +94,7 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
  <img src="https://farm5.staticflickr.com/4085/4948614041_8424d93588_b.jpg" width="640" height="412" alt="MAERSK SAIGON - IMO: 9303534">
 
 1) <a href="http://fortune.com/2018/01/16/ibm-blockchain-maersk-company/">
-    IBM and Maersk Are Creating a New Blockchain Company</a>  
+IBM and Maersk Are Creating a New Blockchain Company</a>  
 IBM and Danish shipping giant Maersk are teaming up to form a new company whose aim is to commercialize blockchain technology—the nifty, shared accounting ledgers first made famous by the cryptocurrency Bitcoin.
 <p>
 2. <a href="https://www.coindesk.com/hyperledger-counterfeit-drugs-blockchain/">Hyperledger Project Explores Fighting Counterfeit Drugs with Blockchain</a>
