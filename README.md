@@ -30,7 +30,7 @@ Bring a laptop
     
 <p>
 
-# Chat: https://chat.hyperledger.org/
+## Chat: https://chat.hyperledger.org/
 
 ## Office Hours: https://calendly.com/alfsf <p> 
   
