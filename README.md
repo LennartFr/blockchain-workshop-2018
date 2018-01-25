@@ -181,6 +181,7 @@ All transactions submitted through a business network are stored on the blockcha
 <p>
 <a href="https://hyperledger.github.io/composer/introduction/key-concepts.html">Hyperledeger Composer Key Concepts</a>
     <p>
+        
 1. Assets
 1. Participants
 1. Identities and ID cards ID cards simplify the process of connecting to a business network,
