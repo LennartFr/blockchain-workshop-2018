@@ -98,7 +98,7 @@ IBM and Maersk Are Creating a New Blockchain Company</a>
 IBM and Danish shipping giant Maersk are teaming up to form a new company whose aim is to commercialize blockchain technology—the nifty, shared accounting ledgers first made famous by the cryptocurrency Bitcoin.
 <p>
 2. <a href="https://www.coindesk.com/hyperledger-counterfeit-drugs-blockchain/">Hyperledger Project Explores Fighting Counterfeit Drugs with Blockchain</a>
-A key point up for debate at the meeting was the question of defining what exactly constitutes counterfeit activity in the pharmaceutical industry. According to Mbanefo, counterfeiters include both “rogue” manufacturers and established companies around the world that are failing to include the right amounts of active ingredients in medicines – or none at all.
+A key point up for debate at the meeting was the question of defining what exactly constitutes counterfeit activity in the pharmaceutical industry. ....
 "That would be cleared up if we had a supply chain we could actually trust," she said.
 <p>
 The idea of using distributed time-stamping to differentiate counterfeit drugs is a compelling one, given the success of the trade.
