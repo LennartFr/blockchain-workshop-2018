@@ -174,9 +174,10 @@ Chaincode is a piece of code that is written in one of the supported languages s
  <a href="https://hyperledger.github.io/composer/reference/cto_language.html">Hyperledger Composer Modeling Language</a>
  <p>
 Hyperledger Composer is a programming model containing a modeling language, and a set of APIs to quickly define and deploy business networks and applications that allow participants to send transactions that exchange assets.<p>
-<p>        
- <a href="https://hyperledger.github.io/composer/introduction/key-concepts.html">Hyperldeger Composer Key Concepts</a>
-       
+<p>
+All transactions submitted through a business network are stored on the blockchain ledger, and the current state of assets and participants are stored in the blockchain state database. The blockchain distributes the ledger and the state database across a set of peers and ensures that updates to the ledger and state database are consistent across all peers using a consensus algorithm.
+    
+<a href="https://hyperledger.github.io/composer/introduction/key-concepts.html">Hyperledeger Composer Key Concepts</a>
   
 [Hyperledger Composer Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
 
