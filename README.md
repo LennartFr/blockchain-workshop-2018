@@ -108,6 +108,7 @@ The idea of using distributed time-stamping to differentiate counterfeit drugs i
 5. <a href="https://cointelegraph.com/news/major-global-air-transport-player-eyes-blockchain-technology-for-maintenance-and-repair-system-monitoring">Major Global Air Transport Player Eyes Blockchain Technology for Maintenance and Repair System Monitoring</a>
 <p>
 6. The engineers of the Defense Advanced Research Projects Agency (DARPA) are currently experimenting with Blockchain to create a messaging service that is secure and impenetrable to foreign attacks. This service will be tested internally first, but if it holds up, may find its way onto the battlefield soon. DARPA has asked the public to submit proposals on the best ways to put the service into action.
+<p>
 7. <a href="https://techcrunch.com/2016/10/08/how-blockchain-can-change-the-music-industry/">In the music industry, the blockchain could transform publishing, monetization and the relationship of artists with their communities of fans.</a>
 <p>
 First, music can be published on the ledger with a unique ID and time stamp in a way that is effectively unalterable. This can solve the historic problem of digital content being downloaded, copied and modified at the leisure of users. ....
