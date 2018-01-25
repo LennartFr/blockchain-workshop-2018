@@ -83,8 +83,6 @@ Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 # [Blockchain use cases from IBM](https://www.ibm.com/blockchain/use-cases/)
 
-[Ripple and Moneygram](http://fortune.com/2018/01/11/ripple-moneygram-xrp-cryptocurrency-bank-transfers/)
-
 ## The Blockchain Distributed Ledger
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p>
@@ -104,6 +102,7 @@ A key point up for debate at the meeting was the question of defining what exact
 The idea of using distributed time-stamping to differentiate counterfeit drugs is a compelling one, given the success of the trade.
 <p>
 3. <a href="http://statescoop.com/vermont-city-pilots-blockchain-for-real-estate">Vermont city pilots blockchain for real estate</a>
+<p>
 4. <a href="https://www.bizjournals.com/newyork/news/2017/12/06/blockchain-could-revolutionize-voting.html">Blockchain could revolutionize voting and elections </a>
 <a href="https://cointelegraph.com/news/major-global-air-transport-player-eyes-blockchain-technology-for-maintenance-and-repair-system-monitoring">Major Global Air Transport Player Eyes Blockchain Technology for Maintenance and Repair System Monitoring</a>
 <p>
