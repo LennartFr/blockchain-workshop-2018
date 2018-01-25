@@ -39,9 +39,8 @@ Bring a laptop
 <p>
 <img src="https://farm5.staticflickr.com/4706/39817426281_c185a7e3de_b.jpg" width="1024" height="611" alt="Index">
 <p>                
-                
-              
-                
+             
+           
 
 # Download code for Exercises 
 
@@ -171,6 +170,13 @@ Chaincode is a piece of code that is written in one of the supported languages s
 ## Exercise 1: Hyperledger Composer Playground Tutorial 
 <img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
 <p>
+    
+ <a href="https://hyperledger.github.io/composer/reference/cto_language.html">Hyperledger Composer Modeling Language</a>
+ <p>
+Hyperledger Composer is a programming model containing a modeling language, and a set of APIs to quickly define and deploy business networks and applications that allow participants to send transactions that exchange assets.<p>
+<p>        
+ <a href="https://hyperledger.github.io/composer/introduction/key-concepts.html">Hyperldeger Composer Key Concepts</a>
+       
   
 [Hyperledger Composer Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
 
