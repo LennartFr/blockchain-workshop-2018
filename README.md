@@ -20,7 +20,7 @@ Raheel is a Software Engineer focused on developing journeys for Emerging Techno
 
 <b>Please form teams for the exercises</b>
 
-6:00-30-8:30 pm: Intro: <p>
+6:30-8:30 pm: Intro: <p>
     Exercise 1: Hyperledger Composer Marbles Network https://hyperledger.github.io/composer/index.html<p> 
     Exercise 2: Decentralized Energy with Hyperledger Composer. https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/<p>
     Exercise 3: Marbles app: https://github.com/IBM-Blockchain/marbles<p>
